@@ -1,13 +1,26 @@
-# CrewAI AI NewsLetter
+# <h1 align="center">💻 CrewAI AI NewsLetter </h1>
 
 ## Installation
-To get started with the CrewAI Hierarchical Tutorial, clone the repository and install the necessary dependencies.
+To get started with the CrewAI , clone the repository and install the necessary dependencies.
 
+## 💻 Running Locally
+
+1. Clone the repository📂
 ```
-git clone "https://github.com/AliZaiN-157/CrewAI-AINewsLetter.git"
-cd into the folder
-pip install -r requirements.txt
+git clone "https://github.com/AliZaiN-157/CrewAI-AINewsLetter.git" 
 ```
+
+2. Install dependencies with [Poetry](https://python-poetry.org/) and activate virtual environment🔨
+
+```bash
+poetry install
+poetry shell
+```
+
+<center>
+<img src="./crewAI.jpeg" >
+</center>
+
 
 ## Usage
 To run the CrewAI tutorial, execute the main script after setting up your environment variables and configuration.
